@@ -6,4 +6,4 @@
 
 ## 📫 How to Reach Me
 
-[![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/onursir/)
+[![Linkedin Badge](https://img.shields.io/badge/onursir-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/onursir/)
