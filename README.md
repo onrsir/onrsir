@@ -12,3 +12,7 @@
 
 ## 📫 How to Reach Me
 
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](linkedin.com/onursir)
+
+
+
